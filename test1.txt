@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 BmdJDJABDHBAANFHFNABFHAFNNAFBA
 idjahdjanfabfhanfnabhfbaf
+=======
+djahfafahfjdnfjhdj
+>>>>>>> parent of 4f5f10b... Revert "last"
 =======
 djahfafahfjdnfjhdj
 >>>>>>> parent of 4f5f10b... Revert "last"
